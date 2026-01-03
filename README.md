@@ -129,8 +129,6 @@ Adding everything would dilute the signal.
 
 📓 **Main notebook:** [ilsvrc-winner-cnn-architectures-with-keras](./ilsvrc-winner-cnn-architectures-with-keras.ipynb)
 
-**Kaggle Notebook:** [https://www.kaggle.com/code/aakcodebreaker/ilsvrc-winner-cnn-architectures-with-keras](https://www.kaggle.com/code/aakcodebreaker/ilsvrc-winner-cnn-architectures-with-keras)
-
 ---
 
 ## References
